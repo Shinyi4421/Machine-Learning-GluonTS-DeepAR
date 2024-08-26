@@ -1,0 +1,2 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+Model/tarin_all_years/prediction-net-state.pt filter=lfs diff=lfs merge=lfs -text
